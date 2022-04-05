@@ -23,6 +23,8 @@
 - [Task22](https://github.com/RaheemAmer/ITI-3-Months---Gamify-JS-project)
 - [Task23](https://github.com/RaheemAmer/Git-Course)
 - [Task23](https://github.com/RaheemAmer/MongoDB-University---Course)
+- [Task24](https://github.com/RaheemAmer/test)
+- [Task25](https://github.com/RaheemAmer/Learning-MERN)
 
 Linkedin Assesments task quiz:
 - [Task](https://github.com/RaheemAmer/linkedin-skill-assessments-quizzes)
