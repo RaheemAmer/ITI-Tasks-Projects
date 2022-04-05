@@ -24,3 +24,6 @@
 - [Task23](https://github.com/RaheemAmer/Git-Course)
 - [Task23](https://github.com/RaheemAmer/MongoDB-University---Course)
 
+Linkedin Assesments task quiz:
+- [Task](https://github.com/RaheemAmer/linkedin-skill-assessments-quizzes)
+
